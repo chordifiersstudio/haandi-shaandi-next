@@ -26,9 +26,9 @@ const menuData = [
 const regions = ['Kashmir', 'Lucknow', 'Assam', 'Kolkata', 'Hyderabad', 'Karnataka', 'Tamil Nadu', 'Kerala'];
 
 const sizes = [
-  { name: 'Safar Haandi', weight: '350g', price: '₹199', serves: 'Serves 1', desc: 'Perfect for a solo journey of flavors.', image: '/Royal Hyderabadi Biryani 🍗🍚.jpg' },
-  { name: 'Mehfil Haandi', weight: '800g', price: '₹299', serves: 'Serves 2', desc: 'Share the joy with your favorite person.', image: '/Royal Hyderabadi Biryani 🍗🍚 (1).jpg' },
-  { name: 'Dawaati Haandi', weight: '1200g', price: '₹499', serves: 'Serves 3', desc: 'A feast meant for family and friends.', image: '/Royal Hyderabadi Biryani 🍗🍚.jpg' }
+  { name: 'Safar Haandi', weight: '350g', price: '₹199', serves: 'Serves 1', desc: 'Perfect for a solo journey of flavors.', image: '/biriyani1.png' },
+  { name: 'Mehfil Haandi', weight: '800g', price: '₹299', serves: 'Serves 2', desc: 'Share the joy with your favorite person.', image: '/biriyani2.png' },
+  { name: 'Dawaati Haandi', weight: '1200g', price: '₹499', serves: 'Serves 3', desc: 'A feast meant for family and friends.', image: '/biriyani1.png' }
 ];
 
 const socialImages = [
