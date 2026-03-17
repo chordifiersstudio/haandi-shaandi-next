@@ -557,7 +557,7 @@ const AiChef = () => {
   const [isLoading, setIsLoading] = useState(false);
   const messagesEndRef = useRef(null);
 
-  const apiKey = ""; // Set by environment
+  const apiKey = process.env.NEXT_PUBLIC_GEMINI_API_KEY; // Set by environment
 
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
