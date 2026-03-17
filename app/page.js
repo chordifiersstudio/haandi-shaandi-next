@@ -62,7 +62,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-6 flex justify-between items-center">
         <a href="#" className="flex items-center">
           <img 
-            src="/Haandi Shaandi Logo.jpg" 
+            src="/hslogo.png" 
             alt="Haandi Shaandi Logo" 
             onError={(e) => { e.target.onerror = null; e.target.src = "https://placehold.co/180x60/B83A0D/FFFFFF?text=Haandi+Shaandi"; }}
             className="h-12 md:h-16 w-auto object-contain transition-transform hover:scale-105" 
