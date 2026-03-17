@@ -666,7 +666,7 @@ const AiChef = () => {
 
 // --- MAIN APP ---
 
-export default function App() {
+export default function Page() {
   return (
     <>
       {/* Global CSS for custom animations (smoke, parallax, fonts) */}
